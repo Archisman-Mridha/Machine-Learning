@@ -1,0 +1,11 @@
+{
+    "name": "ml",
+    "version": "1.0.0",
+    "main": "gradient-descent.js",
+    "author": "Archisman Mridha",
+    "license": "ISC",
+    "dependencies": {
+
+        "tensorflow": ""
+    }
+}
